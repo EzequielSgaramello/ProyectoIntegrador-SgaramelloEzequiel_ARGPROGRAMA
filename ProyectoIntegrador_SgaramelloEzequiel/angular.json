@@ -90,12 +90,17 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css" ,
+              "ProyectoIntegrador_SgaramelloEzequiel/node_modules/bootstrap/dist/css/bootstrap.css" , 
+              "ProyectoIntegrador_SgaramelloEzequiel/node_modules/bootstrap/dist/js/bootstrap.js"
             ],
             "scripts": []
           }
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "f24e0b64-7018-4c8d-bc3d-7cb53e7696ca"
   }
 }
