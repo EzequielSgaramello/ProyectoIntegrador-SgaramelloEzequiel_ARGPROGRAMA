@@ -7,6 +7,7 @@ import { HeaderComponent } from './components/header/header.component';
 import { LogoArgComponent } from './components/logo-arg/logo-arg.component';
 import { SocialComponent } from './components/social/social.component';
 import { BannerComponent } from './components/banner/banner.component';
+import { AcercaDeComponent } from './components/acerca-de/acerca-de.component';
 
 
 @NgModule({
@@ -16,6 +17,7 @@ import { BannerComponent } from './components/banner/banner.component';
     LogoArgComponent,
     SocialComponent,
     BannerComponent,
+    AcercaDeComponent,
   ],
   imports: [
     BrowserModule,
