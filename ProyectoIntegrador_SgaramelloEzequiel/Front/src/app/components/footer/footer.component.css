@@ -1,0 +1,16 @@
+.row{
+    background: -moz-linear-gradient(left,  #f0f9ff 0%, #cbebff 47%, #a1dbff 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(left,  #f0f9ff 0%,#cbebff 47%,#a1dbff 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to right,  #f0f9ff 0%,#cbebff 47%,#a1dbff 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+}
+footer{
+    color: #fefefe;
+    font-size: 20px;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 2px -2px 5px #999;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: flex-start;
+    align-items: center;
+}

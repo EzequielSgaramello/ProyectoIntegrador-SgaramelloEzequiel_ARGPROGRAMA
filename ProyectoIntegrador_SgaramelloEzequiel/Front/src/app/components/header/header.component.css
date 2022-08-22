@@ -1,0 +1,21 @@
+
+div{
+
+/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#04afe8+0,0f90b7+40,036789+100 */
+background: rgb(4,175,232); /* Old browsers */
+background: -moz-linear-gradient(left,  rgba(4,175,232,1) 0%, rgba(15,144,183,1) 40%, rgba(3,103,137,1) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(left,  rgba(4,175,232,1) 0%,rgba(15,144,183,1) 40%,rgba(3,103,137,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to right,  rgba(4,175,232,1) 0%,rgba(15,144,183,1) 40%,rgba(3,103,137,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+
+
+   
+  
+}
+app-social{
+    display:flex;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column-reverse;
+}

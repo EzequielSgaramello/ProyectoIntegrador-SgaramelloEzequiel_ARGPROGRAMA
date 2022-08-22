@@ -1,0 +1,22 @@
+.row{
+    padding: 20px;
+}
+.container{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#LogoArg{
+    width: 150px
+}
+img{
+    width: 45px;
+}
+.redes{
+    margin-right: 2em;
+}
+.btn{
+    border-width:medium ;
+    position: relative;
+  right: -20px;
+}
